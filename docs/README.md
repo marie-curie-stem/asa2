@@ -1,12 +1,15 @@
 # ASA session II
 
+[![MIT license](https://img.shields.io/github/license/kreier/asa2?color=brightgreen)](http://opensource.org/licenses/MIT)
+![GitHub Release](https://img.shields.io/github/v/release/kreier/asa2)
+
 From November 11th, 2019 to February 10th, 2020 we had 9 sessions to create and improve our robot cars. Some work is shared here.
 
 ![Nvidia competition](nvidia.jpg)
 
 ## Arduino
 
-<img src="robot2019.png" width="20%" align="right">
+<img src="robot2019.png" width="15%" align="right">
 
 For the Arduino C programs we use the folder [arduino](./arduino). For example:
 
@@ -38,6 +41,3 @@ Our first steps in MicroPython are documented in the [micropython](./micropython
 - 2020-02-10 Closed schools extended by one week
 
 ![Arduino setup](arduino.jpg)
-
-[![MIT license](https://img.shields.io/github/license/kreier/asa2?color=brightgreen)](http://opensource.org/licenses/MIT)
-[![HitCount](http://hits.dwyl.io/kreier/asa2.svg)](http://hits.dwyl.io/kreier/asa2)
