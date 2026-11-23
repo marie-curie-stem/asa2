@@ -2,6 +2,9 @@
 
 From November 11th, 2019 to February 10th, 2020 we had 9 sessions to create and improve our robot cars. Some work is shared here.
 
+[![MIT license](https://img.shields.io/github/license/kreier/asa2?color=brightgreen)](http://opensource.org/licenses/MIT)
+![GitHub Release](https://img.shields.io/github/v/release/kreier/asa2)
+
 ![Nvidia competition](nvidia.jpg)
 
 ## Arduino
@@ -39,5 +42,16 @@ Our first steps in MicroPython are documented in the [micropython](./micropython
 
 ![Arduino setup](arduino.jpg)
 
-[![MIT license](https://img.shields.io/github/license/kreier/asa2?color=brightgreen)](http://opensource.org/licenses/MIT)
+## Thay đổi vào năm 2026 bởi Tài
+
+### Những thứ còn sống
+
+-  Điều khiển qua bluetooth terminal
+
+### Những thứ cút
+
+-  Điều khiển bằng tay cầm
+-  Điều khiển đi nhanh
+-  Điều khiển đi chậm
+-  Điều khiển ứng dụng giả lập tay cầm
 
