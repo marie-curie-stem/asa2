@@ -41,3 +41,16 @@ Our first steps in MicroPython are documented in the [micropython](./micropython
 - 2020-02-10 Closed schools extended by one week
 
 ![Arduino setup](arduino.jpg)
+
+## Thay đổi vào năm 2026 bởi Tài
+
+### Những thứ còn sống
+
+-  Điều khiển qua bluetooth terminal
+
+### Những thứ cút
+
+-  Điều khiển bằng tay cầm
+-  Điều khiển đi nhanh
+-  Điều khiển đi chậm
+-  Điều khiển ứng dụng giả lập tay cầm
