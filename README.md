@@ -40,12 +40,12 @@ print("Hello World!")
 
 ### Những thứ còn sống
 
--  Điều khiển qua bluetooth controller
+-  Điều khiển qua bluetooth terminal
 
 ### Những thứ cút
 
--  Điều khiển bằng controller
+-  Điều khiển bằng tay cầm
 -  Điều khiển đi nhanh
 -  Điều khiển đi chậm
--  Điều khiển app giả lập tay cầm
+-  Điều khiển ứng dụng giả lập tay cầm
   
