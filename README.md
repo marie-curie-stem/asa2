@@ -35,3 +35,17 @@ print("Hello World!")
 - 2020-01-13 [Chuong N](https://github.com/ChuongN) uploads the first update to [Bluetooth Beep](https://github.com/kreier/asa2/blob/master/arduino/bluetooth_beep.ino)
 - 2020-02-03 School was canceled yesterday because of COVID19
 - 2020-02-10 Closed schools extended by one week
+
+## Thay đổi vào năm 2026 bởi Tài
+
+### Những thứ còn sống
+
+  Điều khiển qua bluetooth controller
+
+### Những thứ cút
+
+  Điều khiển bằng controller
+  Điều khiển đi nhanh
+  Điều khiển đi chậm
+  Điều khiển app giả lập tay cầm
+  
